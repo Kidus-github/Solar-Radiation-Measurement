@@ -8,6 +8,7 @@ Solar Radiation Measurement Data
 The data for this week's challenge is extracted and aggregated from Solar Radiation Measurement Data. Each row in the data contains the values for solar radiation, air temperature, relative humidity, barometric pressure, precipitation, wind speed, and wind direction, cleaned and soiled radiance sensor (soiling measurement) and cleaning events.
 
 . The structure of the data is as follows
+
 **Timestamp (yyyy-mm-dd hh:mm):** Date and time of each observation.
 **GHI (W/m²):** Global Horizontal Irradiance, the total solar radiation received per square meter on a horizontal surface.
 **DNI (W/m²):** Direct Normal Irradiance, the amount of solar radiation received per square meter on a surface perpendicular to the rays of the sun.
@@ -98,3 +99,5 @@ It seems there was an issue with generating the visualization directly. However,
    - **Long-term Sustainability:** Focus on Benin and Togo, leveraging their favorable conditions to maximize both short-term and long-term solar energy output, aligning with MoonLight Energy Solutions' sustainability goals.
 
 These insights should help guide MoonLight Energy Solutions in selecting regions that not only promise high solar energy potential but also align with the company's commitment to sustainable and efficient operations.
+
+Done By kidus Girma
